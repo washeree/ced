@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ROOT MUV="2.1.0.1551.6380">
-		<PRODUCT PID="0x0952" URL="https://raw.githubusercontent.com/bosefirmware/eb/master/drowsy_charger/index.xml" />was
+		<PRODUCT PID="0x0952" URL="https://raw.githubusercontent.com/bosefirmware/eb/master/drowsy_charger/index.xml" />
 		<PRODUCT PID="0x1869" URL="https://raw.githubusercontent.com/bosefirmware/bosebuild/master/BB1/index.xml" />
 		<PRODUCT PID="0x1872" URL="https://raw.githubusercontent.com/bosefirmware/bosebuild/master/BB2/index.xml" />
 		<PRODUCT PID="0x400A" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/isaac/index.xml" />
