@@ -24,4 +24,5 @@
 		<PRODUCT PID="0x402C" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/celine/index.xml" />
 		<PRODUCT PID="0x404C" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/celine2/index.xml" />
 		<PRODUCT PID="0xA211" URL="https://raw.githubusercontent.com/bosefirmware/pro/master/chibi/index.xml" DEVICE_CLASS="TYMPHANY" />
+		<PRODUCT PID="0x402F" URL="https://downloads.bose.com/ced/lando/index.xml" DEVICE_CLASS="BMAP"/>
 </ROOT>
